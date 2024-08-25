@@ -1,8 +1,11 @@
 This would be a Apple's reminder app replica using Nextjs, deployed on vercel
 
-icons from Google font website, downloaded to `assets` folder
+- icons from Google font website, downloaded to `assets` folder
+- color from "https://developer.apple.com/design/human-interface-guidelines/color"
+-
 
 ## Getting Started
+
 First, run the development server:
 
 ```bash
