@@ -1,7 +1,8 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This would be a Apple's reminder app replica using Nextjs, deployed on vercel
+
+icons from Google font website, downloaded to `assets` folder
 
 ## Getting Started
-
 First, run the development server:
 
 ```bash
